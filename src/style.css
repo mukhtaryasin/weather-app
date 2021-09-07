@@ -27,6 +27,13 @@ body{
   display: flex;
   align-items: center;
   border-bottom: 1px solid #bfbfbf;
+  position: relative;
+
+}
+header a{
+  display: flex;
+  position: absolute;
+  right: 0;
 }
 header i{
   cursor: pointer;
@@ -183,13 +190,6 @@ margin-right: 5px;
 .details p{
   font-size: 14px;
   margin-top: -6px;
-}
-
-.footer{
-  display: flex;
-  justify-content: center;
-  margin: 10px 0;
-  align-items: center;
 }
 .size{
   font-size: 2rem;

@@ -24,7 +24,7 @@ const countryList = {
   BJ: "Benin",
   BM: "Bermuda",
   BT: "Bhutan",
-  BO: "Bolivia (Plurinational State of)",
+  BO: "Bolivia ",
   BQ: "Bonaire, Sint Eustatius and Saba",
   BA: "Bosnia and Herzegovina",
   BW: "Botswana",
